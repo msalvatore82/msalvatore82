@@ -1,9 +1,3 @@
-![me](https://github.com/msalvatore82/msalvatore82/raw/master/assets/me.gif)
-
-<p align="center">
-  <img class="icotec"  src="Assets/img/encabezado.png" alt="ENCABEZADO" width="150px">
-</p> 
-
 ## Hey 👋, I'm Matias Salvatore Tadey
 
 Hi there, I'm **Matias Salvatore Tadey**, a **Fullstack developer**.
@@ -73,9 +67,5 @@ I love programming.
   </a>  
 </p>
 
-
-### My GitHub Stats
-
-![msalvatore82's github stats](https://github-readme-stats.vercel.app/api?username=msalvatore82&show_icons=true)
 
 ⭐️ From [msalvatore](https://github.com/msalvatore82)

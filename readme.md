@@ -41,31 +41,21 @@ I love programming.
 
 ### Abuot me, social & professional 
 <p align="center">
-  <a href="salvatoretadey.matias@gmail.com">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="salvatoretadey.matias@gmail.com">
-    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="https://www.instagram.com/matisalvatore/">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="https://www.linkedin.com/in/salvatorematias/">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="salvatorematias@hotmail.com">
-    <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
-  </a>  
-   <a href="https://stackoverflow.com/users/20031930/m47y-ocho2">
-    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="https://twitter.com/matysbis">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  <a href="emailBetter">
-    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>  
+   <a href = "salvatoretadey.matias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/salvatorematias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="salvatorematias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="salvatorematias@hotmail.com" target="_blank"><img src=" https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+    <a href="salvatorematias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+    <a href="salvatorematias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a> 
+    <a href="salvatorematias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a> 
+   <a href="salvatorematias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a> 
+   <a href="salvatorematias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a> 
 </p>
+
+
 
 
 ⭐️ From [msalvatore](https://github.com/msalvatore82)

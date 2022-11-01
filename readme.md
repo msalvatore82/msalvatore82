@@ -56,6 +56,5 @@ I love programming.
   </a> 
 </p>
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/A5er8bQcTZKekcNRojcajw?identity__email=salvatoretadey.matias%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/A5er8bQcTZKekcNRojcajw/image"></blockquote>
 
 ⭐️ From [msalvatore](https://github.com/msalvatore82)

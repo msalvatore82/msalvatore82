@@ -54,6 +54,9 @@ I love programming and creating meaningful digital tools.
   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:salvatorematias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Agile-1E90FF?style=for-the-badge&logo=agile&logoColor=white"></a>
 </p>
 
 ---
